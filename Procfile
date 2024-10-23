@@ -1,1 +1,1 @@
-web: /usr/bin/python3 -m streamlit run src/streamlit_app.py
+web: python -m streamlit run src/streamlit_app.py
